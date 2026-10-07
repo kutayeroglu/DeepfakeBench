@@ -30,4 +30,4 @@ pip install simplejson
 pip install kornia
 pip install fvcore
 pip install imgaug==0.4.0
-pip install git+https://github.com/openai/CLIP.git
+pip install git+c
